@@ -20,8 +20,6 @@ DROP COLUMN marks;
 ALTER TABLE Student
 RENAME TO Students;
 
-describe Students;
-
 INSERT INTO Students
 VALUES(1, "JOHN", "Computer Science", 21);
 

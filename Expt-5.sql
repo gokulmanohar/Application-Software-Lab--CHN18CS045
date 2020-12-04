@@ -24,7 +24,7 @@ START TRANSACTION;
 	SAVEPOINT Save1;
 
 	UPDATE Class SET Name = "Heather" WHERE ID = '219';
-    INSERT INTO Class Values("Alex", 221);
+	INSERT INTO Class Values("Alex", 221);
 
 	SELECT * FROM Class;
 

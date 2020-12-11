@@ -78,3 +78,21 @@ Apply commit, savepoint and rollback commands.
 **Query**  
 [Expt-5.sql](https://github.com/gokulmanohar/Application-Software-Lab--CHN18CS045/blob/main/Expt-5.sql)
 
+
+### Experiment No. 6
+**Instructions**  
+
+```
+Creation of Views and Assertions.
+Create a table store. Fields are order no, code, item, quantity, price, discount, mrp
+Insert values into the table
+Display the table
+Create a view with item_name and quantity for the above table
+Write a query to check whether any changes made to the present table are reflected in view.
+Write a query to delete a view
+```
+
+**Query**  
+[Expt-6.sql](https://github.com/gokulmanohar/Application-Software-Lab--CHN18CS045/blob/main/Expt-6.sql)
+
+

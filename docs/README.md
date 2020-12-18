@@ -10,10 +10,11 @@ Application Software Lab Repository by Gokul Manohar (S5-D-26).
 | 27-NOV-2020 | [Experiment-Number-4](#Experiment-Number-4) |
 | 04-DEC-2020 | [Experiment-Number-5](#Experiment-Number-5) |
 | 11-DEC-2020 | [Experiment-Number-6](#Experiment-Number-6) |
+| 18-DEC-2020 | [Experiment-Number-7](#Experiment-Number-7) |
+
 
 ### Experiment-Number-1
 **Instructions**
-
 ```
 Create a table student with attributes sno,name marks and dept
 Add a new attribute age
@@ -29,7 +30,6 @@ Delete the entire table
 
 ### Experiment-Number-2
 **Instructions**
-
 ```
 Create a table Employee with following specifications.
 Code character (4), name character (10), designation character(30), dob date, salary numeric.
@@ -44,7 +44,6 @@ Delete a tuple from the table employee
 
 ### Experiment-Number-3
 **Instructions**
-
 ```
 Create table employdetails with empid references to the empid in employee table
 Display the details of employee table where empid in employedetails table
@@ -55,7 +54,6 @@ Display the details of employee table where empid notin employedetails table
 
 ### Experiment-Number-4
 **Instructions**  
-
 ```
 Create and insert values for the following tables department and instructor(with constraints)
 Department table
@@ -75,7 +73,6 @@ Id(default)
 
 ### Experiment-Number-5
 **Instructions**  
-
 ```
 Practice of SQL TCL commands like Rollback, Commit, Savepoint
 Questions:
@@ -91,7 +88,6 @@ Apply commit, savepoint and rollback commands.
 
 ### Experiment-Number-6
 **Instructions**  
-
 ```
 Creation of Views and Assertions.
 Create a table store. Fields are order no, code, item, quantity, price, discount, mrp
@@ -105,4 +101,17 @@ Write a query to delete a view
 **Query**  
 [Expt-6.sql](https://github.com/gokulmanohar/Application-Software-Lab--CHN18CS045/blob/main/Expt-6.sql)
 
+### Experiment-Number-7
+**Instructions**  
+```
+Implementation of Built in functions in RDBMS.
+Create a table store. Fields are order no, code, item, quantity, price, discount, mrp.
+Insert values into the table.
+Display the table.
+Write an SQL query to display the reminder, if the amount of an each item in store is divided by 9.
+Write a SQL query to display the amount in store and its square.
+Write a SQL query to divide the amount in stock of each item by 7 in the store table and display the result round to the nearest integer.
+```
 
+**Query**  
+[Expt-7.sql](https://github.com/gokulmanohar/Application-Software-Lab--CHN18CS045/blob/main/Expt-7.sql)

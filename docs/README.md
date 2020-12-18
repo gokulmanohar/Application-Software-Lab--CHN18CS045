@@ -2,14 +2,14 @@
 Application Software Lab Repository by Gokul Manohar (S5-D-26).
 
 ## Table of contents
-| Date | Experiment |
-| ----------- | ----------- |
+| Date        | Experiment                                  |
+| ----------- | ------------------------------------------- |
 | 06-NOV-2020 | [Experiment-Number-1](#Experiment-Number-1) |
 | 13-NOV-2020 | [Experiment-Number-2](#Experiment-Number-2) |
 | 20-NOV-2020 | [Experiment-Number-3](#Experiment-Number-3) |
 | 27-NOV-2020 | [Experiment-Number-4](#Experiment-Number-4) |
 | 04-DEC-2020 | [Experiment-Number-5](#Experiment-Number-5) |
-| 11-DEC-2020 | [Experiment-Number-6](#Experiment-Number-6) |  
+| 11-DEC-2020 | [Experiment-Number-6](#Experiment-Number-6) |
 
 ### Experiment-Number-1
 **Instructions**

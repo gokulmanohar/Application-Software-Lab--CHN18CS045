@@ -139,7 +139,7 @@ Display the total number of employees.
 **Instructions**  
 ```
 Order by and Group by clause.
-Create a table employee with fields Code , name , dob , designation , salary.
+Create a table employee with fields Code, name, dob, designation, salary.
 Display code, name, and designation in descending order of the name.
 Create table deposit with fields baccno , branch_name , amount.
 Give branch name and details of deposit table.

@@ -3,9 +3,9 @@ USE s5d_26;
 -- 1 
 CREATE TABLE Employee (
   code int PRIMARY KEY,
-  name varchar(80),
+  name varchar(40),
   dob date,
-  designation varchar(100),
+  designation varchar(40),
   salary int
 );
 

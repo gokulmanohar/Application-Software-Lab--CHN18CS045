@@ -11,6 +11,8 @@ Application Software Lab Repository by Gokul Manohar (S5-D-26).
 | 04-DEC-2020 | [Experiment-Number-5](#Experiment-Number-5) |
 | 11-DEC-2020 | [Experiment-Number-6](#Experiment-Number-6) |
 | 18-DEC-2020 | [Experiment-Number-7](#Experiment-Number-7) |
+| 08-JAN-2021 | [Experiment-Number-8](#Experiment-Number-8) |
+| 08-JAN-2021 | [Experiment-Number-9](#Experiment-Number-9) |
 
 
 ### Experiment-Number-1
@@ -110,8 +112,38 @@ Insert values into the table.
 Display the table.
 Write an SQL query to display the reminder, if the amount of an each item in store is divided by 9.
 Write a SQL query to display the amount in store and its square.
-Write a SQL query to divide the amount in stock of each item by 7 in the store table and display the result round to the nearest integer.
+Write a SQL query to divide the amount in stock of each item by 7 in 
+the store table and display the result round to the nearest integer.
 ```
 
 **Query**  
 [Expt-7.sql](https://github.com/gokulmanohar/Application-Software-Lab--CHN18CS045/blob/main/Expt-7.sql)
+
+### Experiment-Number-8
+**Instructions**  
+```
+Implementation of various aggregate functions in SQL.
+Create a table Employee with following specifications, Code, name, DOB, designation, salary.
+Insert values into the table.
+Display sum of salaries from the table employee where designation is clerk.
+Describe the maximum salary value from the table employee.
+Display average salary of employees.
+Describe the minimum salary value from the table.
+Display the total number of employees.
+```
+
+**Query**  
+[Expt-8.sql](https://github.com/gokulmanohar/Application-Software-Lab--CHN18CS045/blob/main/Expt-8.sql)
+
+### Experiment-Number-9
+**Instructions**  
+```
+Order by and Group by clause.
+Create a table employee with fields Code , name , dob , designation , salary.
+Display code, name, and designation in descending order of the name.
+Create table deposit with fields baccno , branch_name , amount.
+Give branch name and details of deposit table.
+```
+
+**Query**  
+[Expt-9.sql](https://github.com/gokulmanohar/Application-Software-Lab--CHN18CS045/blob/main/Expt-9.sql)

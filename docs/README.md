@@ -4,15 +4,15 @@ Application Software Lab Repository by Gokul Manohar (S5-D-26).
 ## Table of contents
 | Date        | Experiment                                  |
 | ----------- | ------------------------------------------- |
-| 06 NOV 2020 | [Experiment-Number-1](#Experiment-Number-1) |
-| 13 NOV 2020 | [Experiment-Number-2](#Experiment-Number-2) |
-| 20 NOV 2020 | [Experiment-Number-3](#Experiment-Number-3) |
-| 27 NOV 2020 | [Experiment-Number-4](#Experiment-Number-4) |
-| 04 DEC 2020 | [Experiment-Number-5](#Experiment-Number-5) |
-| 11 DEC 2020 | [Experiment-Number-6](#Experiment-Number-6) |
-| 18 DEC 2020 | [Experiment-Number-7](#Experiment-Number-7) |
-| 08 JAN 2021 | [Experiment-Number-8](#Experiment-Number-8) |
-| 08 JAN 2021 | [Experiment-Number-9](#Experiment-Number-9) |
+| 06 Nov 2020 | [Experiment-Number-1](#Experiment-Number-1) |
+| 13 Nov 2020 | [Experiment-Number-2](#Experiment-Number-2) |
+| 20 Nov 2020 | [Experiment-Number-3](#Experiment-Number-3) |
+| 27 Nov 2020 | [Experiment-Number-4](#Experiment-Number-4) |
+| 04 Dec 2020 | [Experiment-Number-5](#Experiment-Number-5) |
+| 11 Dec 2020 | [Experiment-Number-6](#Experiment-Number-6) |
+| 18 Dec 2020 | [Experiment-Number-7](#Experiment-Number-7) |
+| 08 Jan 2021 | [Experiment-Number-8](#Experiment-Number-8) |
+| 08 Jan 2021 | [Experiment-Number-9](#Experiment-Number-9) |
 
 
 ### Experiment-Number-1

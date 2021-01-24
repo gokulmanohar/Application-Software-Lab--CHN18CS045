@@ -13,6 +13,10 @@ Application Software Lab Repository by Gokul Manohar (S5-D-26).
 | 18 Dec 2020 | [Experiment-Number-7](#Experiment-Number-7) |
 | 08 Jan 2021 | [Experiment-Number-8](#Experiment-Number-8) |
 | 08 Jan 2021 | [Experiment-Number-9](#Experiment-Number-9) |
+| 25 Jan 2021 | [Experiment-Number-10](#Experiment-Number-10) |
+| 25 Jan 2021 | [Experiment-Number-11](#Experiment-Number-11) |
+| 25 Jan 2021 | [Experiment-Number-12](#Experiment-Number-12) |
+
 
 
 ### Experiment-Number-1
@@ -147,3 +151,36 @@ Give branch name and details of deposit table.
 
 **Query**  
 [Expt-9.sql](https://github.com/gokulmanohar/Application-Software-Lab--CHN18CS045/blob/main/Expt-9.sql)
+
+### Experiment-Number-10
+**Instructions**  
+```
+Write a PL/SQL block to illustrate the use of implicit cursor
+```
+
+**Query**  
+[Expt-10.sql](https://github.com/gokulmanohar/Application-Software-Lab--CHN18CS045/blob/main/Expt-10.sql)
+
+### Experiment-Number-11
+**Instructions**  
+```
+Write a database trigger that prevents changes to emp table from 5pm to 12am
+(statement level trigger)
+```
+
+**Query**  
+[Expt-11.sql](https://github.com/gokulmanohar/Application-Software-Lab--CHN18CS045/blob/main/Expt-11.sql)
+
+### Experiment-Number-12
+**Instructions**  
+```
+Implementation of join operator.
+Find all information of sailors who have reserved boat number 101. 
+Find the name of the boat reserved by Bob. 
+Find the names of sailors who have reserved a red boat, and list in the order of age. 
+Find the names of sailors who have reserved at least one boat. 
+Find the ids and names of sailors who have reserved two different boats on the same day.
+```
+
+**Query**  
+[Expt-12.sql](https://github.com/gokulmanohar/Application-Software-Lab--CHN18CS045/blob/main/Expt-12.sql)

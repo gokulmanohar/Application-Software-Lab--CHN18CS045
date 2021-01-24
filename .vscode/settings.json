@@ -3,6 +3,7 @@
         "Expt",
         "RDBMS",
         "Savepoint",
+        "VARCHAR",
         "baccno",
         "empid",
         "employdetails",

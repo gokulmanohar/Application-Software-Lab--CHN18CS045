@@ -36,10 +36,7 @@ values (1001, 201, '2019-06-23'),
 (1003, 101, '2019-06-21'),
 (1004, 201, '2019-06-22');
 
-
-
-
-
+-- #1
 SELECT 
     A.sid, A.sname, A.rating, A.age
 FROM
@@ -47,6 +44,7 @@ FROM
         INNER JOIN
     reserves AS C ON A.sid = C.sid AND C.bid = 101;
     
+-- #2    
 SELECT 
     B.bname
 FROM
@@ -56,6 +54,7 @@ FROM
         INNER JOIN
     boats AS B ON B.bid = C.bid;
     
+-- #3    
 SELECT 
     A.sname
 FROM
@@ -66,13 +65,15 @@ FROM
     boats AS B ON B.bid = C.bid AND B.color = 'RED'
 ORDER BY A.age;
     
+-- #4    
 	SELECT DISTINCT
     A.sname
 FROM
     sailors AS A
         INNER JOIN
     reserves AS C ON A.sid IN (C.sid);
-    
+   
+-- #5   
 SELECT 
     A.sid, A.sname
 FROM

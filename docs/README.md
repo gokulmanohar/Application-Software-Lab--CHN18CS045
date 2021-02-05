@@ -2,20 +2,23 @@
 Application Software Lab Repository by Gokul Manohar (S5-D-26).
 
 ## Table of contents
-| Date        | Experiment                                  |
-| ----------- | ------------------------------------------- |
-| 06 Nov 2020 | [Experiment-Number-1](#Experiment-Number-1) |
-| 13 Nov 2020 | [Experiment-Number-2](#Experiment-Number-2) |
-| 20 Nov 2020 | [Experiment-Number-3](#Experiment-Number-3) |
-| 27 Nov 2020 | [Experiment-Number-4](#Experiment-Number-4) |
-| 04 Dec 2020 | [Experiment-Number-5](#Experiment-Number-5) |
-| 11 Dec 2020 | [Experiment-Number-6](#Experiment-Number-6) |
-| 18 Dec 2020 | [Experiment-Number-7](#Experiment-Number-7) |
-| 08 Jan 2021 | [Experiment-Number-8](#Experiment-Number-8) |
-| 08 Jan 2021 | [Experiment-Number-9](#Experiment-Number-9) |
+| Date        | Experiment                                    |
+| ----------- | --------------------------------------------- |
+| 06 Nov 2020 | [Experiment-Number-1](#Experiment-Number-1)   |
+| 13 Nov 2020 | [Experiment-Number-2](#Experiment-Number-2)   |
+| 20 Nov 2020 | [Experiment-Number-3](#Experiment-Number-3)   |
+| 27 Nov 2020 | [Experiment-Number-4](#Experiment-Number-4)   |
+| 04 Dec 2020 | [Experiment-Number-5](#Experiment-Number-5)   |
+| 11 Dec 2020 | [Experiment-Number-6](#Experiment-Number-6)   |
+| 18 Dec 2020 | [Experiment-Number-7](#Experiment-Number-7)   |
+| 08 Jan 2021 | [Experiment-Number-8](#Experiment-Number-8)   |
+| 08 Jan 2021 | [Experiment-Number-9](#Experiment-Number-9)   |
 | 25 Jan 2021 | [Experiment-Number-10](#Experiment-Number-10) |
 | 25 Jan 2021 | [Experiment-Number-11](#Experiment-Number-11) |
 | 25 Jan 2021 | [Experiment-Number-12](#Experiment-Number-12) |
+| 25 Jan 2021 | [Experiment-Number-12](#Experiment-Number-12) |
+| 05 Feb 2021 | [Lab-Exam](#Lab-Exam)                         |
+
 
 
 
@@ -184,3 +187,28 @@ Find the ids and names of sailors who have reserved two different boats on the s
 
 **Query**  
 [Expt-12.sql](https://github.com/gokulmanohar/Application-Software-Lab--CHN18CS045/blob/main/Expt-12.sql)
+
+### Lab-Exam
+**Part-1**  
+```
+Create a table EMPLOYEE with following schema:
+(Emp_no, E_name, E_address, E_ph_no, Dept_no, Dept_name,Job_id , Salary)
+1. Insert at least 5 rows in the table.
+2. Display the record of each employee who works in department D10.
+3. Display the details of Employee who works in department MECH.
+4.Display the complete record of employees working in the SALES Department.
+```
+**Part-2**
+```
+Create a table EMPLOYEE with following schema:
+(Emp_no, E_name, E_address, E_ph_no, Dept_no, Dept_name,Job_id, Designation , Salary)
+1.List the E_no, E_name, Salary of all employees working for MANAGER.
+2.List the employees in the ascending order of Designations of those joined after 1981.
+3.List the employees who are either ‘CLERK’ or ‘ANALYST’ .
+4.List the employees who are working for the Deptno 10 or20.
+5.Display the name as well as the first five characters of name(s) starting with ‘H’
+```
+
+**Query**  
+[Lab-Exam-1.sql](https://github.com/gokulmanohar/Application-Software-Lab--CHN18CS045/blob/main/Lab-Exam-1.sql)  
+[Lab-Exam-2.sql](https://github.com/gokulmanohar/Application-Software-Lab--CHN18CS045/blob/main/Lab-Exam-2.sql)
